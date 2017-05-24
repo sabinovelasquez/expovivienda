@@ -6,9 +6,10 @@ import {
   TouchableOpacity,
   TouchableHighlight,
   Navigator,
+  Image,
   View,
 } from 'react-native';
-
+//require('../assets/bg.png')
 const detailView = require('./detailView');
 
 class mainView extends Component {
@@ -35,6 +36,7 @@ class mainView extends Component {
         <TouchableOpacity onPress={this.detail.bind(this)} style={styles.mainBtn}>
           <Text>Detalle</Text>
         </TouchableOpacity>
+        <Image style={styles.bg} source={require('../assets/bg.png')}/>
       </View>
       ///Render ends...
     );
@@ -47,10 +49,16 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#858585'
   },
+  bg:{
+    width: Dimensions.get('window').width,
+    height: Dimensions.get('window').height,
+    position: 'absolute',
+    resizeMode: 'contain',
+    zIndex: 1
+  },
   container:{
     width: Dimensions.get('window').width,
-    position: 'absolute',
-    bottom: 20
+    height: Dimensions.get('window').height,
   }
 });
 module.exports = mainView;
