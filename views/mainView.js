@@ -49,8 +49,6 @@ const styles = StyleSheet.create({
   },
   container:{
     width: Dimensions.get('window').width,
-    textAlign: 'center',
-    color: '#858585',
     position: 'absolute',
     bottom: 20
   }

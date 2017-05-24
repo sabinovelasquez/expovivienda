@@ -26,7 +26,7 @@ class detailView extends Component {
   }
 
   // componentDidMount () {
-  
+
   // }
 
   goBack = (state) => {
