@@ -1,0 +1,278 @@
+[
+  {
+    "title": "BUIN",
+    "projects": [
+      {
+        "title": "HARAS DE BUIN",
+        "dealer": "INMOBILIARIA LOS SILOS III LTD",
+        "address": "CALLE VILLASECA Nº 390",
+        "type": "CASAS"
+      },
+      {
+        "title": "BAJOS DE MATTE",
+        "dealer": "SOCIEDAD INMOBILIARIA Y DE INVERSIONES BÍO BÍO S.A.",
+        "address": "BAJOS DE MATTE Nº 0415",
+        "type": "CASAS"
+      },
+      {
+        "title": "LA SIEMBRA",
+        "dealer": "INMOBILIARIA PY S.A.",
+        "address": "VILLASECA Nº 721",
+        "type": "CASAS"
+      },
+      {
+        "title": "TERRANOBLE",
+        "dealer": "3L BUIN SPA",
+        "address": "VILLASECA Nº 580",
+        "type": "CASAS"
+      },
+      {
+        "title": "LOS NOGALES DE BUIN",
+        "dealer": "INMOBILIARIA E INVERSIONES FLORES DEL MAIPO I SPA",
+        "address": "BAJOS DE MATTE Nº 1350",
+        "type": "CASAS"
+      }
+    ]
+  },
+  {
+    "title": "COLINA",
+    "projects": [
+      {
+        "title": "CONDOMINIO PACÍ́FICO",
+        "dealer": "NOVAL",
+        "address": "AVENIDA COLINA S/N",
+        "type": "DEPARTAMENTOS"
+      },
+      {
+        "title": "LA ARAUCARIA DE COLINA IV",
+        "dealer": "INMOBILIARIA PY S.A.",
+        "address": "REINA SUR Nº 432",
+        "type": "CASAS"
+      }
+    ]
+  },
+  {
+    "title": "INDEPENDENCIA",
+    "projects": [
+      {
+        "title": "CJTO. RES. JARDINES DE VIVACETA I",
+        "dealer": "INMOBILIARIA E INVERSIONES PUERTA DEL SOL SPA RM",
+        "address": "CALLE LAS ARAUCARIAS Nº 2703",
+        "type": "DEPARTAMENTOS"
+      },
+      {
+        "title": "CJTO. RES. JARDINES DE VIVACETA II",
+        "dealer": "INMOBILIARIA E INVERSIONES PUERTA DEL SOL SPA RM",
+        "address": "CALLE LAS ARAUCARIAS Nº 2703",
+        "type": "DEPARTAMENTOS"
+      },
+      {
+        "title": "CJTO. RES. JARDINES DE VIVACETA III",
+        "dealer": "INMOBILIARIA E INVERSIONES PUERTA DEL SOL SPA RM",
+        "address": "CALLE LAS ARAUCARIAS Nº 2703",
+        "type": "DEPARTAMENTOS"
+      },
+      {
+        "title": "CJTO. RES. JARDINES DE VIVACETA IV",
+        "dealer": "INMOBILIARIA E INVERSIONES PUERTA DEL SOL SPA RM",
+        "address": "CALLE LAS ARAUCARIAS Nº 2703",
+        "type": "DEPARTAMENTOS"
+      }
+    ]
+  },
+  {
+    "title": "LA FLORIDA",
+    "projects": [
+      {
+        "title": "JARDÍ́N DEL ALTO II",
+        "dealer": "INMOBILIARIA LOS SILOS III LTDA.",
+        "address": "JARDÍ́N DEL ALTO Nº 9700",
+        "type": "DEPARTAMENTOS"
+      }
+    ]
+  },
+  {
+    "title": "LA GRANJA",
+    "projects": [
+      {
+        "title": "CONDOMINIO SANTA SOFÍA 3",
+        "dealer": "INMOBILIARIA SANTA SOFÍ́A TRES S.P.A.",
+        "address": "AV. SANTA ROSA Nº 10480",
+        "type": "DEPARTAMENTOS"
+      }
+    ]
+  },
+  {
+    "title": "LAMPA",
+    "projects": [
+      {
+        "title": "SAN JOSÉ́ DE VALLE GRANDE 2",
+        "dealer": "INMOBILIARIA SAN JOSÉ́ DOS S.P.A.",
+        "address": "AVENIDA LA MONTAÑA LOTE RM 2 4 CD2 S/N",
+        "type": "DEPARTAMENTOS"
+      },
+      {
+        "title": "CONDOMINIO FUENTES DE VALLE GRANDE",
+        "dealer": "INMOBILIARIA FUENTES DE VALLE GRANDE S.P.A.",
+        "address": "AVENIDA LA MONTAÑA LOTE RM 2 4 CD1 S/N",
+        "type": "DEPARTAMENTOS"
+      },
+      {
+        "title": "LAS PATAGUAS",
+        "dealer": "INMOBILIARIA EL DESCUBRIDOR S.A.",
+        "address": "AV. LOS HALCONES S/N",
+        "type": "CASAS"
+      },
+      {
+        "title": "BRISAS DEL VALLE IV",
+        "dealer": "INMOBILIARIA M5 S.A.",
+        "address": "AVENIDA LA MONTAÑ̃A S/N",
+        "type": "CASAS"
+      },
+      {
+        "title": "BRISAS DEL VALLE III",
+        "dealer": "INMOBILIARIA M5 S.A.",
+        "address": "AVENIDA LA MONTAÑ̃A S/N",
+        "type": "CASAS"
+      },
+      {
+        "title": "LUIS DURAND II",
+        "dealer": "CONAVICOOP SANTIAGO",
+        "address": "EL PELLIN Nº 1825",
+        "type": "CASAS"
+      },
+      {
+        "title": "VALLE NORTE DS19",
+        "dealer": "INMOBILIARIA VALLE NORTE S.A.",
+        "address": "PROYECTO SANTO TOMÁS RM 1 3A 1",
+        "type": "CASAS"
+      }
+    ]
+  },
+  {
+    "title": "MAIPÚ",
+    "projects": [
+      {
+        "title": "BOSQUES DEL SUR 3",
+        "dealer": "INMOBILIARIA LOS SILOS III LTD",
+        "address": "SAN MANUEL Nº 4575",
+        "type": "CASAS"
+      },
+      {
+        "title": "BOSQUES DEL SUR 4",
+        "dealer": "INMOBILIARIA LOS SILOS III LTD",
+        "address": "SAN MANUEL Nº 4575",
+        "type": "CASAS - DEPARTAMENTOS"
+      },
+      {
+        "title": "CONDOMINIO JARDÍN DE MAIPÚ",
+        "dealer": "EPS AGENCIA HABITACIONAL S.A.",
+        "address": "AVENIDA LA GALAXIA S/N",
+        "type": "DEPARTAMENTOS"
+      }
+    ]
+  },
+  {
+    "title": "PADRE HURTADO",
+    "projects": [
+      {
+        "title": "ESCRITOR MIGUEL ARTECHE ETAPA 3",
+        "dealer": "CONAVICOOP SANTIAGO",
+        "address": "SEGUNDA TRANSVERSAL LOT. EL MANZANO S/N",
+        "type": "CASAS"
+      },
+      {
+        "title": "ESCRITOR MIGUEL ARTECHE ETAPA 4",
+        "dealer": "CONAVICOOP SANTIAGO",
+        "address": "SEGUNDA TRANSVERSAL LOT. EL MANZANO S/N",
+        "type": "CASAS"
+      }
+    ]
+  },
+  {
+    "title": "PUDAHUEL",
+    "projects": [
+      {
+        "title": "CONDOMINIO 2 RÍO VIEJO DE PUDAHUEL",
+        "dealer": "INMOBILIARIA RÍO VIEJO S.A.",
+        "address": "JOSÉ́ JOAQUÍ́N PÉ́REZ Nº 9580",
+        "type": "DEPARTAMENTOS"
+      },
+      {
+        "title": "CONDOMINIO 3 RÍO VIEJO DE PUDAHUEL",
+        "dealer": "INMOBILIARIA RÍO VIEJO S.A.",
+        "address": "SAN JUAN VALDÉ́S Nº 1402",
+        "type": "DEPARTAMENTOS"
+      }
+    ]
+  },
+  {
+    "title": "RECOLETA",
+    "projects": [
+      {
+        "title": "CONDOMINIO AIRES DE RECOLETA",
+        "dealer": "INMOBILIARIA PLAZA URBANA SPA - RM.",
+        "address": "GABRIEL PALMA Nº 854",
+        "type": "DEPARTAMENTOS"
+      }
+    ]
+  },
+  {
+    "title": "RENCA",
+    "projects": [
+      {
+        "title": "JARDÍ́N PONIENTE",
+        "dealer": "INMOBILIARIA LOS SILOS III LTDA.",
+        "address": "BRASIL Nº 8095",
+        "type": "DEPARTAMENTOS"
+      }
+    ]
+  },
+  {
+    "title": "SAN BERNARDO",
+    "projects": [
+      {
+        "title": "VISTAPARQUE I",
+        "dealer": "CONSTRUCTORA BGM S.A.",
+        "address": "ALMIRANTE RIVEROS Nº 630",
+        "type": "CASAS - DEPARTAMENTOS"
+      },
+      {
+        "title": "VISTAPARQUE II",
+        "dealer": "CONSTRUCTORA BGM S.A.",
+        "address": "ALMIRANTE RIVEROS Nº 630",
+        "type": "CASAS - DEPARTAMENTOS"
+      },
+      {
+        "title": "CONDOMINIO PARQUE CERRO NEGRO B",
+        "dealer": "INMOBILIARIA LOS CÓ́NDORES S.A.",
+        "address": "LA LADERA Nº 1124",
+        "type": "CASAS"
+      },
+      {
+        "title": "VISTAPARQUE III",
+        "dealer": "CONSTRUCTORA BGM S.A.",
+        "address": "ALMIRANTE RIVEROS Nº 630",
+        "type": "CASAS"
+      },
+      {
+        "title": "VISTAPARQUE IV",
+        "dealer": "CONSTRUCTORA BGM S.A.",
+        "address": "ALMIRANTE RIVEROS Nº 630",
+        "type": "CASAS"
+      },
+      {
+        "title": "MANUEL MAGALLANES ETAPA 3A",
+        "dealer": "CONAVICOOP SANTIAGO",
+        "address": "AVENIDA PADRE HURTADO Nº 16190",
+        "type": "CASAS"
+      },
+      {
+        "title": "MANUEL MAGALLANES ETAPA 3B",
+        "dealer": "CONAVICOOP SANTIAGO",
+        "address": "AVENIDA PADRE HURTADO Nº 16190",
+        "type": "CASAS"
+      }
+    ]
+  }
+]

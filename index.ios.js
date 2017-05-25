@@ -14,7 +14,7 @@ class expovivienda extends Component {
       <NavigatorIOS
         style = {styles.container}
         initialRoute= {{
-          title: 'Perscan',
+          title: 'Expo Vivienda',
           component: mainView,
           navigationBarHidden: true
         }}/>
