@@ -7,10 +7,6 @@ import {
   TouchableOpacity,
   TouchableHighlight,
   View,
-  CameraRoll,
-  Animated,
-  Easing,
-  Alert,
   Navigator
 } from 'react-native';
 
@@ -18,35 +14,18 @@ class detailView extends Component {
 
   constructor(props) {
     super(props);
-    this.state = {
-      modalOpen: false,
-      beginX: 0,
-      endX: 0
-    }
   }
 
-  // componentDidMount () {
-
-  // }
-
   goBack = (state) => {
-    this.setState({
-      title: null,
-      subtitle: null
-    });
-    if(state=='back') {
-      this.props.navigator.pop({ screen: 'mainView' });
-    }else {
-      this.props.navigator.popToTop();
-    }
+    this.props.navigator.popToTop();
   }
 
   render() {
     return (
       <View style={styles.container}>
-        <Text>DETALLE</Text>
+        <Text>{this.props.data.projects[0].title}</Text>
         <TouchableOpacity onPress={this.goBack.bind(this)} style={styles.mainBtn}>
-          <Text>Back</Text>
+          <Text>BACK</Text>
         </TouchableOpacity>
       </View>
     );
