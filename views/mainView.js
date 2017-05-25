@@ -38,10 +38,12 @@ class mainView extends Component {
       <Image source={require('../assets/bg.png')} style={styles.container}>
         <StatusBar hidden={true} />
         <View style={styles.header}>
+          <Image source={require('../assets/gob.png')} style={styles.gob} />
           <Image source={require('../assets/logo.png')} style={styles.logo} />
           <Text style={styles.headerTxt}>DESCUBRE LAS MEJORES OPORTUNIDADES PARA COMPRAR UNA VIVIENDA DE HASTA 2.200 UF, EN LOS PROYECTOS REGULADOS POR EL PROGRAMA DE INTEGRACIÓN SOCIAL Y TERRITORIAL (DS 19).</Text>
         </View>
         <View style={styles.content}>
+          <Image source={require('../assets/sello.png')} style={styles.sello} />
           <Text style={styles.title}>SELECCIONA COMUNA</Text>
           <View style={styles.btnsContent}>
             <TouchableOpacity onPress={this.detail.bind(this, projects[0])} style={styles.btns}>
@@ -106,6 +108,24 @@ const styles = StyleSheet.create({
   },
   content: {
     backgroundColor: 'transparent'
+  },
+  gob: {
+    width: 66,
+    height: 64,
+    resizeMode: 'contain',
+    position: 'absolute',
+    left: 10,
+    top: 20,
+    borderWidth: .5,
+    borderColor: '#fff'
+  },
+  sello: {
+    width: 112,
+    height: 112,
+    resizeMode: 'contain',
+    position: 'absolute',
+    right: 10,
+    top: -35
   },
   btnsContent: {
     flexDirection: 'row',
