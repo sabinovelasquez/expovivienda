@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -57,5 +57,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BlissPro-ExtraBold.otf</string>
+		<string>BlissPro-Heavy.otf</string>
+		<string>BlissPro-Regular.otf</string>
+	</array>
 </dict>
 </plist>
